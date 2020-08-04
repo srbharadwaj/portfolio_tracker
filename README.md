@@ -41,7 +41,9 @@ Example:
 | 12-Jun-12| 108466| ICICI Prudential Bluechip Fund - Growth| Buy| 15.75| 126.984| 2000| Equity| Retirement
 | 12-Jun-12| 102000| HDFC Top 100 Fund - Growth Option| Buy| 193.745| 10.323| 2000| Equity| Retirement
 
-Please make sure that the column header has same names. 
+Please make sure that the column header has same names as shown above.
+
+
 Scheme codes can be got from http://portal.amfiindia.com/spages/NAVopen.txt
 
 Please mail me at srbharadwaj at gmail dot com for any issues. 
