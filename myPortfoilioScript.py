@@ -1,7 +1,7 @@
-from portfolio_tracker.mftracker.latestNavClass import LatestNavClass
-from portfolio_tracker.mftracker.mfDatabaseClass import MFDatabaseClass
-from portfolio_tracker.mftracker.parseTransactionsClass import parseTransactionsClass
-from portfolio_tracker.mftracker.portfolioUtils import *
+from mftracker.latestNavClass import LatestNavClass
+from mftracker.mfDatabaseClass import MFDatabaseClass
+from mftracker.parseTransactionsClass import parseTransactionsClass
+from mftracker.portfolioUtils import *
 import argparse
 import logging.config
 
