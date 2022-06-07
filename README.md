@@ -1,6 +1,7 @@
 # Mutual fund portfolio Tracker
 
-A simple DIY mutual fund tracker written in python
+A simple DIY mutual fund tracker written in python.
+For more info, please check the post https://duddukaasu.wordpress.com/2020/08/04/how-do-you-track-your-portfolio/
 
 **How to use**
 -
